@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 I'm Felipe, a backend developer based in Brazil.
 
@@ -12,7 +12,7 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
 
 - 🔭 **Currently working on:** An expense tracker that stores a database of expenses that can be accessed from a clean dashboard.
 - 🌱 **Learning:** REST APIs and Spring Security.
-- ⚡ **Fun fact:** Math wasn't my favorite subject in school, but I was still pretty good at it. Now I love STEM, and one day I'd even like to work in AI development/research.
+- ⚡ **Fun fact:** Math wasn't my favorite subject in school, but I was still pretty good at it. Now I love STEM and solving logical problems.
 
 ---
 
